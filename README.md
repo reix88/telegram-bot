@@ -1,4 +1,4 @@
-<h1>Telegram Bot for Telegram</h1>
+<h1>Telegram Bot Encoder</h1>
 
 <h3>Инструкция:</h3>
   - Установите node<br>
